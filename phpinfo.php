@@ -2,4 +2,8 @@
 
 phpinfo();
 
+
+
+
+TESTE 2
 ?>
