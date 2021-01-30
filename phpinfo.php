@@ -2,4 +2,7 @@
 
 phpinfo();
 
+
+MASTER TESTE 3
+
 ?>
